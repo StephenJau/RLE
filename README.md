@@ -1,0 +1,2 @@
+# RLE
+RLE Compression practice
