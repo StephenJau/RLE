@@ -1,6 +1,5 @@
 # RLE
 RLE Compression practice
-Steven Jau =========================================================
 This project is to practice Run Length Encoding compression algorithm.
 A non marker based compression and a marker based compression will be performed seperately. on ubuntu x86_64.
 Nonmarker based: rle_no.c rle_no.h;
@@ -13,4 +12,4 @@ filename:
 	compression: any
 	uncompression: entension be .rle
 test file: golfcore.ppm
-Mar.4th 2016 =======================================================
+Mar.4th 2016
