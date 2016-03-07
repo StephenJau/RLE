@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#include "rle_no.h"
+#include "rle.h"
 
 int main(int argc,char * argv[])
 {
